@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/georgetsouvaltzis/claude-switch/releases/download/0.1.0/csw_0.1.0_windows_amd64.zip",
+            "bin": [
+                "csw.exe"
+            ],
+            "hash": "7422d7a371f497d243b98964a83286275484f516b31f7877eb3abad47c098f50"
+        },
+        "arm64": {
+            "url": "https://github.com/georgetsouvaltzis/claude-switch/releases/download/0.1.0/csw_0.1.0_windows_arm64.zip",
+            "bin": [
+                "csw.exe"
+            ],
+            "hash": "361d98e1c40a476906e2aa144f576cf3bedd24a3d041b3eb9d2bd01a58d047e3"
+        }
+    },
+    "homepage": "https://github.com/georgetsouvaltzis/claude-switch",
+    "license": "MIT",
+    "description": "Switch between Claude subscriptions in Claude Code"
+}
