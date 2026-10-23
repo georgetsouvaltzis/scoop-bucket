@@ -6,14 +6,14 @@
             "bin": [
                 "csw.exe"
             ],
-            "hash": "734a60dcc0d5523ce0caa255c4a5b6533ea37742ac91b8840f97b53ce876cd9f"
+            "hash": "9cecf532ea39a14ad94a599e10216f8b6f07b7d7e3c0259049448501164faa76"
         },
         "arm64": {
             "url": "https://github.com/georgetsouvaltzis/claude-switch/releases/download/0.1.0/csw_0.1.0_windows_arm64.zip",
             "bin": [
                 "csw.exe"
             ],
-            "hash": "3f52c7b19b0d89a85414894c7c75b5a2350654c020547f6656c556394042450b"
+            "hash": "fca2cf6f00dd40a440081c58e51ecf62fc2f6010f8627e965b673ded10f68319"
         }
     },
     "homepage": "https://github.com/georgetsouvaltzis/claude-switch",
